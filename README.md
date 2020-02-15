@@ -6,7 +6,7 @@ Requirements
 
 These are some as follow:
 
-1. Auditd, Python must be installed on your Linux (Debian) machine.
+1. Auditd,and Python must be installed on your Linux (Debian) machine.
 2. You have to create an auditd.log file
 
     root@cybermizz:~# nano /var/log/audit/auditd.log
